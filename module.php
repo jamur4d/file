@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-$correct_password = '$2a$12$.Pya2D/79vf.e.61lG1Qge4PAQdY1OHR6gzEpf4C1.lcLjhsoelXK'; // Hash dari password yang benar
+$correct_password = '$2a$12$BVI.VqZnWAf0269497spiOOkIEW6hO8pgCy3E9VuH53dBhc.spMpy'; // Hash dari password yang benar
 
 function show_login_page($message = "")
 {

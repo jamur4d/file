@@ -134,12 +134,15 @@ $ip_silent = true;
 $ip_whitelist = array(
     '127.0.0.1',     // local ipv4
     '::1',           // local ipv6
+    '36.37.147.189'  // your IP
+    
 );
 
 // IP-addresses, both ipv4 and ipv6
 $ip_blacklist = array(
     '0.0.0.0',      // non-routable meta ipv4
     '::'            // non-routable meta ipv6
+    
 );
 
 // if User has the external config file, try to use it to override the default config above [config.php]

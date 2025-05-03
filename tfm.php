@@ -132,8 +132,8 @@ $ip_silent = true;
 
 // IP-addresses, both ipv4 and ipv6
 $ip_whitelist = array(
-
-    '36.37.147.189'  // your IP
+    '127.0.0.1',     // local ipv4
+    '::1',           // local ipv6
     
 );
 

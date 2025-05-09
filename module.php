@@ -1,34 +1,4 @@
 <?php
-/**
-
- * Widget API: WP_Widget_Toolbar class
-
- *
-
- * @package WordPress
-
- * @subpackage Widgets
-
- * @since 4.8.1
-
- */
-
-
-
-/**
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 session_start();
 

